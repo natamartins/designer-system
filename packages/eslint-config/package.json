@@ -1,0 +1,10 @@
+{
+  "name": "@codedev-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "eslit": "^6.0.0"
+  }
+}

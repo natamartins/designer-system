@@ -1,0 +1,3 @@
+{
+    "extends": "@codedev-ui/eslint-config"
+}
