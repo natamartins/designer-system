@@ -8,21 +8,21 @@ const Button = styled("button", {
     color: "$black",
     borderRadius: "$md",
 
-    variants: {
-        size: {
-            small: {
-                fontSize: 14,
-                padding: '$2 $4'
-            },
-            big: {
-                fontSize: 16,
-                padding: '$3 $6'
-            }
-        }
-    },
-    defaultVariantes: {
-        size: 'small'
-    }
+    // variants: {
+    //     size: {
+    //         small: {
+    //             fontSize: 14,
+    //             padding: '$2 $4'
+    //         },
+    //         big: {
+    //             fontSize: 16,
+    //             padding: '$3 $6'
+    //         }
+    //     }
+    // },
+    // defaultVariantes: {
+    //     size: 'small'
+    // }
 })
 
 export default {
@@ -36,9 +36,9 @@ export const Primary: StoryObj = {
     }
 }
 
-export const Big: StoryObj = {
-    args: {
-        children: 'Enviar',
-        size: 'big'
-    }
-}
+// export const Big: StoryObj = {
+//     args: {
+//         children: 'Enviar',
+//         size: 'big'
+//     }
+// }
