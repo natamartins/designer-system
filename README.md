@@ -4,12 +4,12 @@
 </h1>
     
 <h2 id="project">📁 Projeto</h2>
-<p>Esse é um projeto desenvolvido para aprender sobre o Designer System e StoryBook</p>
-<p>É um projeto simples, onde contém cores, components, tipografias com a documentação no
+<p>This is a project designed to learn about the Designer System and StoryBook</p>
+<p>It is a simple project, which contains colors, components, typography with documentation in the
 StoryBook!</p>
 
 <h2 id="tecnology">💻 Tecnologias</h2>
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - TypeScript
 - Vite
@@ -17,32 +17,32 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   
 <h2 id="usage">🎯 Utilização</h2>
 
-Eexecute-o em sua máquina local. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas abaixo:
+Run it on your local machine. Make sure you have the `Node.js` and the `npm` installed before proceeding with the steps below:
 
-1. Clone o projeto:
+1. Clone the project:
 
 ```
 $ git clone https://github.com/natamartins/designer-system.git
 ```
 
-2. No seu terminal, acesse a pasta do projeto:
+2. In your terminal, access the project folder:
 
 ```
 $ cd designer-system
 ```
 
-3. Instale as dependências:
+3. Install dependencies:
 
 ```
 $ npm install
 ```
 
-4. Inicie o projeto:
+4. Start the project:
 
 ```
 $ npm run dev
 ```
-## rede social
+## social network
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/nata-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
 </div>
