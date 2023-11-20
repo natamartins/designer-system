@@ -3,19 +3,19 @@
   🗂️ Designer System
 </h1>
     
-<h2 id="project">📁 Projeto</h2>
+<h2 id="project">📁 Project</h2>
 <p>This is a project designed to learn about the Designer System and StoryBook</p>
 <p>It is a simple project, which contains colors, components, typography with documentation in the
 StoryBook!</p>
 
-<h2 id="tecnology">💻 Tecnologias</h2>
+<h2 id="tecnology">💻 technology</h2>
 This project was developed with the following technologies:
 
 - TypeScript
 - Vite
 - StoryBook
   
-<h2 id="usage">🎯 Utilização</h2>
+<h2 id="usa">🎯 Use</h2>
 
 Run it on your local machine. Make sure you have the `Node.js` and the `npm` installed before proceeding with the steps below:
 
